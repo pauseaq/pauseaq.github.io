@@ -3,11 +3,11 @@
 <body>
 <h1>정명환 과제 리스트</h3>
   <ul><hr/>
-  <li> 1주 (9월 6일 ~ 9월 7일)</li>
+  <li> 1주 (9월 6일 ~ 9월 7일) <완료></li>
   <ol>
     <li><a href=https://pauseaq.github.io/java/1_1_1.html>Eclipse 초기 실행(1_1_1.html)</a></li>
   </ol><hr/>
-  <li> 2주 (9월 13일 ~ 9월 14일)</li>
+  <li> 2주 (9월 13일 ~ 9월 14일) <완료></li>
   <ol>
     <li><a href="https://pauseaq.github.io/java/1_2_2.html">변학도실습 desktop용(1_2_2.html)</a></li>
     <li><a href="https://pauseaq.github.io/java/1_2_3.html">2주 3회차 과제(1_2_3.html) : 아무런 코드 없이 실행</a></li>
@@ -17,7 +17,7 @@
     <li><a href="https://pauseaq.github.io/java/1_3_3.html">3주 3회차 과제(1_3_3.html) : intVar, LongVar, booleanVar, doubleVar, charVar / 로컬 변수 초기화 / 변수 타입별 테스트</a></li>
     <li><a href="https://pauseaq.github.io/java/1_3_4.html">3주 4회차 과제(1_3_4.html) : 변수 타입별 테스트 / 오버플로우 및 강제형변환 / 여러 서식지정자 / 진수 출력 / 원 둘레, 원 면적 계산</a></li>
   </ol><hr/>
-  <li> 3주 (9월 20일 ~ 9월 21일)</li>
+  <li> 3주 (9월 20일 ~ 9월 21일) <완료></li>
   <ol>
     <li><a href="https://pauseaq.github.io/java/1_4_1.html">4주 1회차 과제(1_4_1.html) : 연산자 계산 / 분초 변환</a></li>
     <li><a href="https://pauseaq.github.io/java/1_4_2.html">4주 2회차 과제(1_4_2.html) : 실수 계산</a></li>
@@ -30,10 +30,10 @@
   </ol> <hr/>
   <li> 4주 (9월 27일 ~ 9월 28일)</li>
   <ol>
-    <li><a href="https://pauseaq.github.io/java/1_6_1.html">6주 1회차 과제(1_6_1.html) : 반복문 (for / 여러개)</a></li>
-    <li><a href="https://pauseaq.github.io/java/1_6_2.html">6주 2회차 과제(1_6_2.html) : 반복문 (break / continue / 별찍기)</a></li>
-    <li><a href="https://pauseaq.github.io/java/1_6_3.html">6주 3회차 과제(1_6_3.html) : 배열 (1차원 / 2차원 / 2차원 for문 / 정렬 / 소수 출력)</a></li>
-    <li><a href="https://pauseaq.github.io/java/1_6_4.html">6주 4회차 과제(1_6_4.html) : 함수 (sum / rand / fnGender 반환 X / fnGender 반환 O)</a></li>
+    <li><a href="https://pauseaq.github.io/java/1_6_1.html">6주 1회차 과제(1_6_1.html) : 반복문 (for / 여러개) = 실습 1개 / 과제 1개</a></li>
+    <li><a href="https://pauseaq.github.io/java/1_6_2.html">6주 2회차 과제(1_6_2.html) : 반복문 (break / continue / 별찍기) = 실습 2개 / 과제 1개</a></li>
+    <li><a href="https://pauseaq.github.io/java/1_6_3.html">6주 3회차 과제(1_6_3.html) : 배열 (1차원 / 2차원 / 2차원 for문 / 정렬 / 소수 출력) = 실습 4개 / 과제 1개</a></li>
+    <li><a href="https://pauseaq.github.io/java/1_6_4.html">6주 4회차 과제(1_6_4.html) : 함수 (sum / rand / fnGender 반환 X / fnGender 반환 O) = 실습 3개 / 과제 1개</a></li>
   </ol> <hr/>
   <li> 5주 (10월 4일 ~ 10월 5일)</li>
   <ol>
