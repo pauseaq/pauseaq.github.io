@@ -1,4 +1,4 @@
-![image](https://github.com/pauseaq/pauseaq.github.io/assets/126747138/4136d11d-23db-4755-a8b4-ac033fccf6e9)정명환 개인 과제 리스트 URL : https://pauseaq.github.io/index.html
+정명환 개인 과제 리스트 URL : https://pauseaq.github.io/index.html
 
 <body>
 <h1>정명환 과제 리스트</h3>
