@@ -1,4 +1,4 @@
-정명환 개인 과제 리스트 URL : https://pauseaq.github.io/index.html
+![image](https://github.com/pauseaq/pauseaq.github.io/assets/126747138/4136d11d-23db-4755-a8b4-ac033fccf6e9)정명환 개인 과제 리스트 URL : https://pauseaq.github.io/index.html
 
 <body>
 <h1>정명환 과제 리스트</h3>
@@ -38,8 +38,8 @@
   <li> 5주 (10월 4일 ~ 10월 5일)</li>
   <ol>
     <li><a href="https://pauseaq.github.io/java/1_7_1.html" target="_blank">7주 1회차 과제(1_7_1.html) : 함수 사용 예시, 더하기/빼기/곱하기/4각형 면적/3각형 면적/두 점간 직선거리 예제 함수화</a> = https://pauseaq.github.io/java/1_7_1.html</li>
-    <li><a href="https://pauseaq.github.io/java/1_7_2.html" target="_blank">7주 2회차 과제(1_7_2.html) : </a> = https://pauseaq.github.io/java/1_7_2.html</li>
-    <li><a href="https://pauseaq.github.io/java/1_7_3.html" target="_blank">7주 3회차 과제(1_7_3.html) : </a> = https://pauseaq.github.io/java/1_7_3.html</li>
+    <li><a href="https://pauseaq.github.io/java/1_7_2.html" target="_blank">7주 2회차 과제(1_7_2.html) : 해당 회차에 대한 과제가 없음.</a> = https://pauseaq.github.io/java/1_7_2.html</li>
+    <li><a href="https://pauseaq.github.io/java/1_7_3.html" target="_blank">7주 3회차 과제(1_7_3.html) : 객체 프로그램 실행 결과, 클래스 정의 및 객체사용 예시, 동일한 절차 프로그램 예</a> = https://pauseaq.github.io/java/1_7_3.html</li>
     <li><a href="https://pauseaq.github.io/java/1_7_4.html" target="_blank">7주 4회차 과제(1_7_4.html) : </a> = https://pauseaq.github.io/java/1_7_4.html</li>
   </ol>
   </ul>
