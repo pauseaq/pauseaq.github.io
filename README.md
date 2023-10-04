@@ -35,12 +35,19 @@
     <li><a href="https://pauseaq.github.io/java/1_6_3.html" target="_blank">6주 3회차 과제(1_6_3.html) : 배열 (1차원 / 2차원 / 2차원 for문 / 정렬 / 소수 출력) = 실습 4개 / 과제 1개</a> = https://pauseaq.github.io/java/1_6_3.html</li>
     <li><a href="https://pauseaq.github.io/java/1_6_4.html" target="_blank">6주 4회차 과제(1_6_4.html) : 함수 (sum / rand / fnGender 반환 X / fnGender 반환 O) = 실습 3개 / 과제 1개</a> = https://pauseaq.github.io/java/1_6_4.html</li>
   </ol> <hr/>
-  <li> 5주 (10월 4일 ~ 10월 5일)</li>
+  <li> 5주 (10월 4일 ~ 10월 5일) </li>
   <ol>
     <li><a href="https://pauseaq.github.io/java/1_7_1.html" target="_blank">7주 1회차 과제(1_7_1.html) : 함수 사용 예시, 더하기/빼기/곱하기/4각형 면적/3각형 면적/두 점간 직선거리 예제 함수화</a> = https://pauseaq.github.io/java/1_7_1.html</li>
     <li><a href="https://pauseaq.github.io/java/1_7_2.html" target="_blank">7주 2회차 과제(1_7_2.html) : 해당 회차에 대한 과제가 없음.</a> = https://pauseaq.github.io/java/1_7_2.html</li>
     <li><a href="https://pauseaq.github.io/java/1_7_3.html" target="_blank">7주 3회차 과제(1_7_3.html) : 객체 프로그램 실행 결과, 클래스 정의 및 객체사용 예시, 동일한 절차 프로그램 예</a> = https://pauseaq.github.io/java/1_7_3.html</li>
     <li><a href="https://pauseaq.github.io/java/1_7_4.html" target="_blank">7주 4회차 과제(1_7_4.html) : 클래스 정의 및 객체사용예시(2), 클래스 정의 및 객체사용예시(3), 절차 프로그램, 함수 프로그램, 객체 프로그램, 자바빈 프로그램, 객체프로그램 실행결과</a> = https://pauseaq.github.io/java/1_7_4.html</li>
+  </ol> <hr/>
+  <li> 6주 (10월 11일 ~ 10월 12일) (</li>
+  <ol>
+    <li><a href="https://pauseaq.github.io/java/1_8_1.html" target="_blank">8주 1회차 과제(1_8_1.html) : </a>= https://pauseaq.github.io/java/1_8_1.html</li>
+    <li><a href="https://pauseaq.github.io/java/1_8_2.html" target="_blank">8주 2회차 과제(1_8_2.html) : </a>= https://pauseaq.github.io/java/1_8_2.html</li>
+    <li><a href="https://pauseaq.github.io/java/1_8_3.html" target="_blank">8주 3회차 과제(1_8_3.html) : </a>= https://pauseaq.github.io/java/1_8_3.html</li>
+    <li><a href="https://pauseaq.github.io/java/1_8_4.html" target="_blank">8주 4회차 과제(1_8_4.html) : </a>= https://pauseaq.github.io/java/1_8_4.html</li>
   </ol>
   </ul>
 </body>
